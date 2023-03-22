@@ -8,18 +8,18 @@ Congratulations! You have now demonstrated the basic skills necessary to begin g
 
 You will be able to:
 
-* Review the skills and compentencies developed during this Tableau course.
+* Review the skills and competencies developed during this Tableau course.
 
 
 ## Tableau - Recap
-Over the last few modules, we have gone from zero to dashboard with Tableau. Here is how we did it. 
+Over the last few modules, we have gone from zero to a dashboard with Tableau. Here is how we did it. 
 
 * First, we described Tableau Public and demonstrated how to download it to our local machine.
 * We identified the components of Tableau's Start page and located the Connect pane so that we could import our data. We also discovered resources available for free online, like the Super Store Sales dataset.
 * Then, we used the Data Source page to connect to data sources. We explored how to build relationships between disparate data sources using the logical Canvas.
 * Next, we explored the Tableau workspace. This enabled us to create our first worksheets, which we used to build out interactive visualizations. We discussed use cases for Tableau's most useful basic visualizations. 
 * We combined the visualizations we created to build out a realistic dashboard and add some advanced features.
-* Equipped with these skills, you applied your knowledge of Tableau with your analytical skills to your own dashboard. 
+* Equipped with these skills, you applied your knowledge of Tableau with your analytical skills to your dashboard. 
 
 In addition to your knowledge of the Tableau interface, you developed your awareness of foundational principles in dashboarding, such as:
 
@@ -30,7 +30,7 @@ In addition to your knowledge of the Tableau interface, you developed your aware
 
 Equipped with these skills, you can begin considering how you can use them to enhance your data science or analytics career. Let's discuss how Tableau can help you in some of the most popular industries.
 
-1.  Business Intelligence: Tableau is a powerful tool for Business Intelligence, as it enables organizations to quickly and easily access, analyze and share information from various data sources, including spreadsheets, databases, cloud services and more. There is a growing need for BI Analysts and Engineers in corporations and governments.
+1.  Business Intelligence: Tableau is a powerful tool for Business Intelligence, as it enables organizations to quickly and easily access, analyze and share information from various data sources, including spreadsheets, databases, cloud services, and more. There is a growing need for BI Analysts and Engineers in corporations and governments.
     
 2.  Sales and Marketing: Tableau is widely used in sales and marketing departments to create dashboards that help track key performance indicators, analyze customer behavior, and make data-driven decisions.
     
